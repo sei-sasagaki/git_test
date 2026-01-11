@@ -1,1 +1,6 @@
 .dotfile
+*.md
+# ignore_dir/
+# ignore_dir/test.txt
+# test.txt
+ignore_dir/*
